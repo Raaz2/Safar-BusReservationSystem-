@@ -25,12 +25,12 @@ The bus reservation system portal is a web-based application that enables users 
 <br>
 
 ## ER Diagrm
-<img src="./Bus Reservation System Portal/Frontend/src/images/ERDiagram2.jpg" > </img>
+<img src="https://images.unsplash.com/photo-1690961698101-76b8efea1308?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=940&q=80" > </img>
 
 <br>
 
 ## Flow Chart
-<img src='./Bus Reservation System Portal/Frontend/src/images/safar2.png'></img>
+<img src='https://images.unsplash.com/photo-1690961931664-6a30a59822e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1334&q=80'></img>
 
 ## Modules
 
